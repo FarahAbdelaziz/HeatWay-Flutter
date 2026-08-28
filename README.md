@@ -89,10 +89,3 @@ The APK is distributed through GitHub Releases and is not committed directly to 
 └── README.md
 ```
 
-## Version
-
-Current version: `1.0.0+1`
-
-## Disclaimer
-
-Environmental guidance provided by HeatWay is informational and should not be treated as medical advice.
