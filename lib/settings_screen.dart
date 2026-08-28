@@ -219,7 +219,7 @@ class _SettingsScreenState extends State<SettingsScreen>
                       _InfoTile(
                         icon: Icons.thermostat_rounded,
                         title: 'HeatWay',
-                        subtitle: 'Find the cooler way.',
+                        subtitle: 'Find the coolest way.',
                         badge: '1.0.0',
                       ),
                       _SoftDivider(),
@@ -234,7 +234,7 @@ class _SettingsScreenState extends State<SettingsScreen>
                 const SizedBox(height: 28),
                 const Center(
                   child: Text(
-                    'HeatWay · Find the cooler way.',
+                    'HeatWay · Find the coolest way.',
                     style: TextStyle(
                       fontSize: 11,
                       color: Colors.grey,
